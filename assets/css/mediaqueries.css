@@ -1,0 +1,10 @@
+@media screen and (min-width: 600px) and (max-width: 768px) {
+
+#fundo{
+    margin: 2em;
+    
+    grid-template-rows: repeat(13, 1fr);
+    grid-template-columns: 1fr;
+}
+
+}
